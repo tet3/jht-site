@@ -1,5 +1,8 @@
-copyright: '&copy; Start Bootstrap'
+copyright: 'all content &copy; Jared H. Taylor &nbsp;&nbsp; Theme:'
 links:
-  - text: Creative
+  - text: 'Creative'
     url: 'https://startbootstrap.com/themes/creative/'
+    new_window: true
+  - text: 'for Jekyll'
+    url: https://vvalchev.github.io/creative-theme-jekyll-new/
     new_window: true

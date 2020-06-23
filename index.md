@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: 'A Lighter Heart EP coming July 1!' 
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Three new tracks about love, family, and joy to brighten the bizarro world of 2020.
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -140,23 +139,28 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Connect with Jared!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Email or follow Jared on Social!
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
+      url: mailto:jared@jaredhtaylor.com
+    - title: Soundcloud
+      icon: fa-soundcloud
+      icon_type: fab
+      url: 'https://soundcloud.com/jaredhtaylor'  
     - title: Twitter
       icon: fa-twitter
       icon_type: fab
-      url: '#'
+      url: 'https://twitter.com/jaredhtaylor'
     - title: Facebook
       icon: fa-facebook
       icon_type: fab
-      url: '#'
+      url: 'https://facebook.com/jaredhtaylor'
+    - title: Instagram
+      icon: fa-instagram
+      icon_type: fab
+      url: 'https://instagram.com/jaredhtaylor'  
 
 ---
