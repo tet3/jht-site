@@ -88,33 +88,29 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Friends and Collaborators!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: Andy Niedermeier
+        text: My BFF, so check out The Best Friend EP! 
+        image: assets/img/members/AndyNiedermeier.webp
+        url: 'https://www.andynimusic.com/'
+      - title: Temple Theaters
+        text: Where I go to school!
+        image: assets/img/members/TempleTheater_400x400.jpg
+        url: 'https://tfma.temple.edu/theater'
+      - title: Casabuena Cultural Productions
+        text: Where it all began...
+        image: assets/img/members/casabuena-logo1.png
+        url: 'http://casabuenacp.com/'
+      - title: Deadtime Storiez
+        text: My friends Stephanie & Sarah's spooky podcast - check out my appearances in eps xxx &amp; yyy.
+        image: assets/img/members/deadtime-storiez.jpg
+        url: 'https://deadtimestoriez.com/'
+      - title: Temple SMASH
+        text: Only the BEST collegiate sketch comedy 
+        image: assets/img/members/TempleSmash_400x400.jpg
+        url: 'http://www.templesmash.com/'
 
   - type: timeline.html
     section_id: timeline
