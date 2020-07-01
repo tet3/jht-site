@@ -18,16 +18,16 @@ sections:
       **A Lighter Heart** is Jared’s debut EP, released on 1 July 2020. The three songs on it are meant to be on the uplifting side: a jubilant celebration of personal freedom, a bittersweet reflection on childhood, an ode to friendship. Amidst a world that was falling apart, Jared’s seeks to bring levity into the lives of those who hear it.
     actions:
       - title: Spotify
-        url: 'https://open.spotify.com/artist/3wtFHKUBxoNrzoKulrnM6O?si=JwC7zz0iQ62lz0ClBntCvQ'
+        url: 'https://open.spotify.com/album/00VDQ0zkqnShxIXGTo49wR?si=G7y1BCaETX6P-QIYXMa_fQ'
         class: btn-light
       - title: Apple Music
-        url: 'https://music.apple.com/us/artist/jared-taylor/1495745330'
+        url: 'https://music.apple.com/us/album/a-lighter-heart-ep/1519083231'
         class: btn-light
       - title: Google Play
-        url: 'https://play.google.com/store/music/album/Jared_Taylor_Catalyst_Chaos?id=Bcimue6c6xoqnwmdhlalafwafjm'
+        url: 'https://play.google.com/store/music/album/Jared_Taylor_A_Lighter_Heart_EP?id=B4ncvmxgkawtsx4g2t44cm2dwqm'
         class: btn-light
       - title: Amazon
-        url: 'https://www.amazon.com/Catalyst-Chaos-Jared-Taylor/dp/B0842DM7ZQ/'
+        url: 'https://www.amazon.com/dp/B08C2BNWRT'
         class: btn-light
 
   - type: contact.html
