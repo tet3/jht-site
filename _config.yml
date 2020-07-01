@@ -1,7 +1,7 @@
 # Site settings
 title: Jared H. Taylor
 description: Musician, Actor, FemBoy # this means to ignore newlines until "baseurl:"
-baseurl: "/jht-site/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 author: Copyright &copy; 2020 - Jared H. Taylor
 lang: en_US
@@ -17,6 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 exclude:
+  - .gitignore
   - Gemfile
   - Gemfile.lock
   - build-in-docker.sh
