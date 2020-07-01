@@ -1,11 +1,11 @@
 ---
 layout: home
 header:
-  title: 'A Lighter Heart EP coming July 1!' 
+  title: 'A Lighter Heart EP released July 1!' 
   text: >
-    Three new tracks about love, family, and joy to brighten the bizarro world of 2020.
+     A jubilant celebration of personal freedom, a bittersweet reflection on childhood, an ode to friendship.
   action: # action button is optional
-    label: Find Out More
+    label: Listen & Download
     url: '#about'
 
 
@@ -13,125 +13,22 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: A Lighter Heart EP
+    text: >
+      **A Lighter Heart** is Jared’s debut EP, released on 1 July 2020. The three songs on it are meant to be on the uplifting side: a jubilant celebration of personal freedom, a bittersweet reflection on childhood, an ode to friendship. Amidst a world that was falling apart, Jared’s seeks to bring levity into the lives of those who hear it.
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: Spotify
+        url: 'https://open.spotify.com/artist/3wtFHKUBxoNrzoKulrnM6O?si=JwC7zz0iQ62lz0ClBntCvQ'
         class: btn-light
-
-  - type: services.html
-    section_id: services
-    #background_style: bg-info
-    title: At Your Service
-    services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
-
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
+      - title: Apple Music
+        url: 'https://music.apple.com/us/artist/jared-taylor/1495745330'
         class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Friends and Collaborators!
-    background_style: bg-info text-white
-    members:
-      - title: Andy Niedermeier
-        text: My BFF, so check out The Best Friend EP! 
-        image: assets/img/members/AndyNiedermeier.webp
-        url: 'https://www.andynimusic.com/'
-      - title: Temple Theaters
-        text: Where I go to school!
-        image: assets/img/members/TempleTheater_400x400.jpg
-        url: 'https://tfma.temple.edu/theater'
-      - title: Casabuena Cultural Productions
-        text: Where it all began...
-        image: assets/img/members/casabuena-logo1.png
-        url: 'http://casabuenacp.com/'
-      - title: Deadtime Storiez
-        text: My friends Stephanie & Sarah's spooky podcast - check out my appearances in eps xxx &amp; yyy.
-        image: assets/img/members/deadtime-storiez.jpg
-        url: 'https://deadtimestoriez.com/'
-      - title: Temple SMASH
-        text: Only the BEST collegiate sketch comedy 
-        image: assets/img/members/TempleSmash_400x400.jpg
-        url: 'http://www.templesmash.com/'
-
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+      - title: Google Play
+        url: 'https://play.google.com/store/music/album/Jared_Taylor_Catalyst_Chaos?id=Bcimue6c6xoqnwmdhlalafwafjm'
+        class: btn-light
+      - title: Amazon
+        url: 'https://www.amazon.com/Catalyst-Chaos-Jared-Taylor/dp/B0842DM7ZQ/'
+        class: btn-light
 
   - type: contact.html
     section_id: contacts
@@ -141,7 +38,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:jared@jaredhtaylor.com
+      url: mailto:info@jaredhtaylor.com
     - title: Soundcloud
       icon: fa-soundcloud
       icon_type: fab
