@@ -4,11 +4,11 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: About
-  url: /about
+  url: /about.html
 - title: Music
-  url: /music
+  url: /music.html
 - title: Resume
-  url: /resume
+  url: /resume.html
 - title: Videos
-  url: /videos
+  url: /videos.html
 

@@ -1,0 +1,18 @@
+---
+layout: page
+title: Resume
+#background_style: bg-info
+background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
+# Add a link to the the top menu
+menus:
+  header:
+    title: Resume
+    weight: 2
+
+---
+
+[Download PDF](assets/img/jared-taylor-resume.pdf)
+
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vQxn3Apd93Qmw7E_eQWd7dPHA-tV_KSB4h7NsNc00lZJF5u3US6miCMnbpyLvV1ITfsJq_45baTgPm7/pub?embedded=true"></iframe>
+
