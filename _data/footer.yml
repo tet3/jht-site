@@ -1,6 +1,9 @@
-copyright: 'all content &copy; Jared H. Taylor &nbsp;&nbsp; Theme:'
+copyright: all text content &copy; Jared H. Taylor &mdash;
 links:
-  - text: 'Creative'
+  - text: Other credits &mdash; 
+    url: '/credits.html'
+    new_window: false
+  - text: 'Theme: Creative'
     url: 'https://startbootstrap.com/themes/creative/'
     new_window: true
   - text: 'for Jekyll'
