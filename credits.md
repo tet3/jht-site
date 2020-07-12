@@ -2,19 +2,25 @@
 layout: page
 title: credits
 #background_style: bg-info
-background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
+background_image: none
+#url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
-menus:
-  header:
-    title: Credits
-    weight: 2
+
 
 sections:
 - type: paragraph.html
   section_id: music
   title: Site credits
   text: >+
-    ## Site under construction - this page is coming soon!
+    - About page header: photo by [Alexa Thompson](https://www.instagram.com/lexathompson/)
+
+    - Music page header: photo by [Jessica Marvin-Romero](https://www.instagram.com/chilaquilesjess/)
+
+    - Resumé page header: photo by [Gerald Cyrus](http://www.geraldcyrus.com/Home.html), from *Bible: Complete Word of God (Abr.)*, Allens Lane Theater, May 2019
+
+    - Videos page header: photo by Seth Wampole
+
+    - Site construction & tech: [Thomas Taylor](https://twitter.com/tet3)  
 
 - type: contact.html
   section_id: contacts

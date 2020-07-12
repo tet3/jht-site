@@ -10,11 +10,17 @@ menus:
     weight: 2
 
 sections:
-- type: paragraph.html
-  section_id: videos
-  title: Videos with Jared in them!
-  text: >+
-    ## Site under construction - this page is coming soon!
+- type: youtubePlayer.html
+  section_id: video1
+  title: FRANKIE (2020)
+  subtitle: Jared as Dir. Ian Schiela 
+  id: e5yMERYn-tM
+
+- type: youtubePlayer.html
+  section_id: video2
+  title: Einstein - Temple SMASH Live!
+  subtitle: Jared as Professor Trebla
+  id: hPPGtvdXRUQ 
 
 - type: contact.html
   section_id: contacts
